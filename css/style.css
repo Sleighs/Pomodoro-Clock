@@ -1,0 +1,76 @@
+#app {
+  margin: auto;
+  width: 508px;
+  padding: 25px;
+  text-align: center;
+}
+#clock {
+  font-size: 80px;
+  font-family: "source sans pro";
+  margin: 15px auto;
+  position: relative;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: default;
+  color: #002823;
+}
+
+#sessionTime {
+  position: relative;
+  z-index: 3;
+  text-shadow: 1px 1px #A5A5AF;
+}
+
+#btns {
+  margin: auto;
+  z-index: 2;
+}
+
+button {
+  font-family: roboto;
+  font-size: 18px;
+  border: #111111;
+  font-weight: bold;
+  border-radius: 3px;
+}
+
+#begin {
+  color: #57BC90;
+}
+
+#sBreak {
+  color: #015249;
+}
+
+#lBreak {
+  color: #DF744A;
+}
+
+#ses {
+  color: #77C9D4;
+}
+
+#ses, #lBreak, #sBreak, #begin {
+  width: 104px;
+  height: 34px;
+  
+}
+
+#counter {
+  margin: 5px;
+}
+#down-btn, #up-btn {
+  width: 47.5%;
+}
+
+
+/*
+#77C9D4 - lt blue
+#57BC90 - marine
+#015249 - forest
+#A5A5AF - lt grey
+#DF744A - warm orange
+
+*/
