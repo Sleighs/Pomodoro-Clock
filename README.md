@@ -1,6 +1,2 @@
-"# Pomodor-Clock" 
-"# Pomodoro-Clock" 
-"# Pomodoro-Clock" 
-"# HedgeWik" 
 "# HedgeWik" 
 "# HedgeWik" 
